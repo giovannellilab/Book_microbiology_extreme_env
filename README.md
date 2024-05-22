@@ -16,7 +16,7 @@ The need for the book comes from the lack of cohesive material on the subject th
 
 While I am listed as primary author of the book, my team at the Giovannelli Lab has (and still is) contributed significantly to the content of the book, and their names are listed as contributing authors on the contribution page of the book. The book has been designed to be a collaborative effert with my colleagues in the future, and I expect as soon as we are in v1.0 or above to open up pull requests to integrate new topics and chapters. For now any error, mistake and or suggestion can be submitted as an [issues here on GitHub](https://github.com/giovannellilab/Book_microbiology_extreme_env/issues).
 
-The book is released under Creative COmmons licence CC-SA_NC 4.0. If you have copyright claims for any of the material on the book please open an issue or contact me directly. I am not hard to find online.
+The book is released under Creative Commons licence CC-SA-NC 4.0. If you have copyright claims for any of the material on the book please open an issue or contact me directly. I am not hard to find online.
 
 For more information about the research and activity of my group please visit [www.donatogiovannelli.com](https://www.donatogiovannelli.com) or [www.coevolve.eu](https://www.coevolve.eu).
 
