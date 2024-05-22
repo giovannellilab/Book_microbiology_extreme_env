@@ -1,6 +1,6 @@
 # Microbiology of Extreme Enviornments - an open text book
 
-[![forthebadge](https://forthebadge.com/images/badges/cc-by-sa-nd.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
