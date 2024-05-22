@@ -1,10 +1,10 @@
 ---
-title: My book title
-author: Alessandro Cucci
-rights: MIT License
-language: it-IT
-tags: [book, my-book, etc]
+title: Microbiology of Extreme Environments
+author: Donato Giovannelli
+rights: CC BY-NC-SA 4.0
+language: en-EN
+tags: [microbiology, extreme environments, geobiology, geomicrobiology, textbook, geosphere-biosphere]
 abstract: |
-  Your summary.
-mainfont: DejaVu Sans
+  TO DO.
+mainfont: Serif
 ---
